@@ -7,14 +7,25 @@
 
 
 ## Como inicia
+
 ```
-git clone git@github.com:hudsonlhMartins/Saga-organics.git
+git clone https://github.com/hudsonlhMartins/Saga-organics.git
+
 cd Saga-organics
-yarn start
+
+yarn start ou npm start
 ```
+
+## Funcionalidades
+
+- [x] Carrinho de compras
+- [x] Busca
+- [x] Responsividade
+- [x] Modal com info nutricional
 
 
 ## Tech Usada
+
 - React
 - React-router-dom
 - Styled-components
