@@ -13,6 +13,8 @@ git clone https://github.com/hudsonlhMartins/Saga-organics.git
 
 cd Saga-organics
 
+yarn add react-scripts ou npm i react-scripts
+
 yarn start ou npm start
 ```
 
